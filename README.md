@@ -39,8 +39,6 @@ Set up a **small lab environment** for practicing:
 | Web1   | 10.41.100.247  | Apache with custom page      |
 | Web2   | 10.41.100.233  | Apache with custom page      |
 
-![Topology](reverse_proxy_topology.png)
-
 ---
 
 ## ⚙️ Setup Instructions
